@@ -36,6 +36,7 @@ footer{
     max-width: 600px; /* limits width on large screens */
     position: relative;
     left: 0; /* remove hard-coded offset */
+    cursor: pointer;
 }
 
 #r, #p, #s {
